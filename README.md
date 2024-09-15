@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BrittanyBlairDesign
 - 👀 I’m a Game Designer
-- 🌱 I’m currently learning Python
+- I like expiramenting with different engines, frameworks, and languages.
 
